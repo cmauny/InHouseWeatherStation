@@ -1,2 +1,2 @@
-# MyWeatherStation
+# InHouseWeatherStation
 Arduino-based weather station
